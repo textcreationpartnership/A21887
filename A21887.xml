@@ -1,0 +1,145 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Whereas the Queenes Maiestie doth vnderstand, that notwithstanding her late proclamation concerning such persons as wander abroad in the habite of souldiers, there are diuers persons pretending to haue serued in the late warres and seruice as souldiers  ...</title>
+            <title>Proclamations. 1592-02-28</title>
+            <author>England and Wales. Privy Council.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1592</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 3 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A21887</idno>
+            <idno type="STC">STC 8218</idno>
+            <idno type="STC">ESTC S115464</idno>
+            <idno type="EEBO-CITATION">99850683</idno>
+            <idno type="PROQUEST">99850683</idno>
+            <idno type="VID">15906</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A21887)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 15906)</note>
+            <note>Images scanned from microfilm: (Early English books, 1475-1640 ; 565:77)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Whereas the Queenes Maiestie doth vnderstand, that notwithstanding her late proclamation concerning such persons as wander abroad in the habite of souldiers, there are diuers persons pretending to haue serued in the late warres and seruice as souldiers  ...</title>
+                  <title>Proclamations. 1592-02-28</title>
+                  <author>England and Wales. Privy Council.</author>
+                  <author>England and Wales. Sovereign (1558-1603 : Elizabeth I)</author>
+               </titleStmt>
+               <extent>1 sheet ([1] p.)   </extent>
+               <publicationStmt>
+                  <publisher>By the deputies of Christopher Barker, printer to the Queenes most excellent Maiestie,</publisher>
+                  <pubPlace>Imprinted at London :</pubPlace>
+                  <date>[1592]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Publication date from STC.</note>
+                  <note>Requiring vagrant soldiers in London to have their passports checked--STC.</note>
+                  <note>Reproduction of the original in the Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Rogues and vagabonds --  England --  Early works to 1800.</term>
+               <term>Soldiers --  England --  Early works to 1800.</term>
+               <term>England --  Proclamations --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-11</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-05</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2009-05</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:15906:1"/>
+            <!-- PDF PAGE 5 -->
+            <p>
+               <seg rend="decorInit">W</seg>Heras the Queenes Maieſtie doth vnderſtand, that notwithſtan<g ref="char:EOLhyphen"/>ding her late Proclamation concerning ſuch perſons as wander abroad in the habite of Souldiers, there are diuers perſons pre<g ref="char:EOLhyphen"/>tending to haue ſerued in the late warres and ſeruice as Soul<g ref="char:EOLhyphen"/>diers, that remaine within and about the Cities of <hi>London</hi> and <hi>Weſtminſter,</hi> whereof ſome are maymed, others haue receiued hurtes and woundes, or haue other infirmitie whereof they are not as yet perfectly cured: And ſome amongſt theſe haue neither bene maymed nor hurt, nor yet ſerued at all in the warres, but take that cloake and colour, to bee the more pitied, and doe liue a<g ref="char:EOLhyphen"/>bout the Citie by begging and the diſorderly manner: For which conſideration the Lordes of her Maieſties Councill haue appoynted certaine of the Iuſtices of the Peace, as well in the Citie of <hi>London</hi> as in the Countie of <hi>Middleſex,</hi> with the Treaſou<g ref="char:EOLhyphen"/>rer of the Warres for the <hi>Lowe Countreyes,</hi> and <hi>Fraunce,</hi> and other diſcreete perſons be<g ref="char:EOLhyphen"/>fore whome all theſe kinde of people ſhalbe brought at the Seſſions hall in the <hi>Olde Ba<g ref="char:EOLhyphen"/>lie,</hi> and by them to bee examined and viewed in what ſort they are hurt, or diſeaſed and maymed, that ſome good order may be taken for the reliefe of ſuch of them as ſhall bee founde to haue receiued any mayme or hurt in Seruice, and for the puniſhment of others that being common Beggers, Roges and able perſons, do counterfaite the name of Souldiers, or though they haue ſerued, do remaine without any iuſt cauſe about this towne, &amp; therefore they haue commanded that the Sheriffes of the Citie of <hi>London,</hi> &amp; in the countie of <hi>Middleſex,</hi> ſhall make proclamation that al ſuch ſouldiers as haue ſerued in theſe late warres in the <hi>low Countreys</hi> or <hi>Fraunce</hi> which remaine about this Citie, ſhal repaire vnto the Seſſions hall in the <hi>olde Balie</hi> on <hi>Saterday</hi> next, at one of the clocke in the afternoone to be ther: by the Commiſſioners examined, viewed and tryed whether they haue ſerued, and to ſhew their Paſportes: and that ſuch as ſhal not appeare before the ſaid Commiſſioners, and ſhall not be allowed to haue ſerued as Souldiers by the Billets of the ſayde Commiſſioners ſigned with their hands to bee by the Iuſtices of the Peace, Conſtables, Headborowes and all others her Maieſties officers as well within the Citie, as in the exempt places for the Countie of Middleſex, and the ſeuerall liberties, committed to Priſon to be Indyted and puniſhed as Rogues and Vagarant perſons.</p>
+            <closer>
+               <dateline>From the Court at White-hall, <date>the laſt of Februarie. 1591.</date>
+               </dateline>
+               <signed>
+                  <list>
+                     <item>W. Burghley.</item>
+                     <item>C. Howard.</item>
+                     <item>H. Hunſdon.</item>
+                     <item>T. Buckhurſt.</item>
+                     <item>I. Wolley.</item>
+                     <item>J. Forteſcue.</item>
+                  </list>
+               </signed>
+            </closer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <g ref="char:leaf">❧</g> Imprinted at London by the Deputies of CHRISTOPHER BARKER, Printer to the Queenes moſt excellent Maieſtie.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
